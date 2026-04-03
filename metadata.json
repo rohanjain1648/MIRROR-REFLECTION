@@ -1,0 +1,7 @@
+{
+  "name": "MYZENN Core",
+  "description": "An emotionally intelligent, gesture-controlled 3D mental health companion designed for emotional regulation and grounding.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
